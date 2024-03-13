@@ -17,3 +17,4 @@ Run `npm install` to install the dependencies.
 * Intermediate Phase 4: More practice
   * more practice creating databases, tables, and manipulating data
 # SQL-LP
+# SQL-LP
